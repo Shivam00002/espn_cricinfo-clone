@@ -19,6 +19,7 @@ function subTopNavbar() {
         <a href="#">Desktop Scoreboard</a>
       </div>
 
+
     </div>
     <div class="dropdown">
       <button class="dropdown-btn">Series</button>
